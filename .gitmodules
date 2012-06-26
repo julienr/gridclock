@@ -1,0 +1,3 @@
+[submodule "humantime"]
+	path = humantime
+	url = https://github.com/aaronbassett/Human-time.git
